@@ -1,0 +1,3 @@
+echo "flask" > requirements.txt
+echo "flask-session" >> requirements.txt
+echo "pandas" >> requirements.txt
